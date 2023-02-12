@@ -12,7 +12,7 @@ The interactive &alpha;&beta;-coordinate canvas should help in illustrating how 
 The space vector modulation is implemented for a two level inverter power-stage with six switches.
 </p>
 <p>
-Try it out! You can find a deployed version of the application here: https://ovaskainen.fi/sv-pwm-illu/
+Try it out! The application is automatically deployed here: https://candas1.github.io/SVPWM-Visualization/
 </p>
 <h3>Created with Vue.js and HTML5.</h3>
 
